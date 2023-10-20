@@ -22,7 +22,7 @@ Les trois pays qui ont diffusé le plus d'épisodes sont : - EtatsUnis - France 
 
 ## Quels sont les 10 mots les plus présents dans les noms des séries ?
 
-Nous avons utilisé un [color=#FF0000]**DISTINCT**[/color] pour la recherche des noms de série car une série peut avoir 4 épisodes dans un mois.
+Nous avons utilisé un **DISTINCT** pour la recherche des noms de série car une série peut avoir 4 épisodes dans un mois.
 Ainsi, nous avons vraiment les séries une fois, et non le nombre de fois qu'il y a d'épisodes.
 
 Les 10 mots les plus présents dans les noms des séries sont : - the(23) - of(7) - (2023)(3) - de(3) - american(3) - les(3) - john(3) - all(2) - and(2) - young(2)
